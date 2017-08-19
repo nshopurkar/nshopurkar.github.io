@@ -253,7 +253,7 @@ p span{
 }
 @media only screen and (max-width: 692px) {
 	#head{
-		font-size: 4.5em;
+		font-size: 5.5em;
 		padding-top:5%;
 	}
 	#head a{
@@ -277,8 +277,8 @@ p span{
 		width: 0px;
 	}
 	#head{
-		font-size: 4.5em;
-		padding-top:5%;
+		font-size: 5.5em;
+		padding-top:25%;
 	}
 	#head a{
 		font-size: 0.5em;
@@ -305,8 +305,8 @@ p span{
 		width: 0px;
 	}
 	#head{
-		font-size: 4.5em;
-		padding-top:5%;
+		font-size: 5.5em;
+		padding-top:25%;
 	}
 	#head a{
 		font-size: 0.4em;
